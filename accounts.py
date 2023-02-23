@@ -6,6 +6,6 @@
 x = (input("Please enter your account number: "))
 
 
-print(f"Is your account number ending in xxxxxx{x[6:10]}")
+print(f"Is your account number ending in:\n xxxxxx{x[6:10]}")
 
 
